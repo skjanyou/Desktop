@@ -1,0 +1,14 @@
+ALT+A 截屏
+ALT+S 后台
+ALT+Q 退出
+ALT+X 获取鼠标当前坐标颜色
+ALT+Z 翻译
+
+ALT+F1 记录当前鼠标位置
+ALT+F2点击记录的鼠标位置
+ALT+F3结束点击
+
+ALT+F4录入按键
+ALT+F5点击按键
+ALT+F6结束按键点击
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+    <!-- 
+    请参照以下进行插件添加，名字是插件的名字，文件路径是jar的路径，当插件不是以单个jar存在时，可以
+    新建一个文件夹并将所有资源文件放在其下，包路径指的是继承了Plugins接口的类的路径，编号用于给插件排序
+     -->
+	<插件 名字="SimpleMP3" 文件路径="simplemp3.jar" 包路径="com.skjanyou.simplemp3.start.Start" 单例="是" 编号="1"  />
+</Root>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+    
+    <!--间隔表示的是不同动作之间切换的时间间隔，单位为毫秒  -->
+	<动作合集 名字="测试合集一" 编号="1" 间隔="200">
+	    <!--间隔表示的是切换图片的间隔，单位为毫秒  -->
+		<动作 名字="走路" 类型="运动" 编号="1" 间隔="200">
+		    <!-- 编号表示顺序 , 调整大小="是" 当图片大小不符合要求时，可以使用这个个参数，会对图片进行压缩，但是推荐使用相应尺寸的图片 -->
+		    <贴图 路径="images/role/shime1.png" 编号="1"/>
+		    <贴图 路径="images/role/shime2.png" 编号="2"/>
+		    <贴图 路径="images/role/shime1.png" 编号="3"/>
+		    <贴图 路径="images/role/shime3.png" 编号="4"/>
+		</动作>
+		
+		<动作 名字="动作1" 类型="运动" 编号="2" 间隔="200">
+		    <贴图 路径="images/role/shime26.png" 编号="1"/>
+		    <贴图 路径="images/role/shime15.png" 编号="2"/>
+		    <贴图 路径="images/role/shime17.png" 编号="3"/>
+		    <贴图 路径="images/role/shime16.png" 编号="4"/>
+		    <贴图 路径="images/role/shime28.png" 编号="5"/>
+		    <贴图 路径="images/role/shime17.png" 编号="6"/>
+		    <贴图 路径="images/role/shime29.png" 编号="7"/>
+		    <贴图 路径="images/role/shime17.png" 编号="8"/>
+		    <贴图 路径="images/role/shime28.png" 编号="9"/>
+		    <贴图 路径="images/role/shime16.png" 编号="10"/>
+		    <贴图 路径="images/role/shime27.png" 编号="11"/>
+		    <贴图 路径="images/role/shime15.png" 编号="12"/>
+		    <贴图 路径="images/role/shime11.png" 编号="13"/>
+		</动作>
+		
+		
+		<动作 名字="动作2" 类型="运动" 编号="3" 间隔="200">
+		    <贴图 路径="images/role/shime31.png" 编号="1"/>
+		    <贴图 路径="images/role/shime32.png" 编号="2"/>
+		    <贴图 路径="images/role/shime31.png" 编号="3"/>
+		    <贴图 路径="images/role/shime33.png" 编号="4"/>
+		</动作>
+		
+		<动作 名字="动作3" 类型="运动" 编号="4" 间隔="200">
+		    <贴图 路径="images/role/shime20.png" 编号="1"/>
+		    <贴图 路径="images/role/shime20.png" 编号="2"/>
+		    <贴图 路径="images/role/shime21.png" 编号="3"/>
+		    <贴图 路径="images/role/shime21.png" 编号="4"/>
+		    <贴图 路径="images/role/shime21.png" 编号="5"/>
+		</动作>
+		
+		<动作 名字="动作4" 类型="运动" 编号="5" 间隔="200">
+		    <贴图 路径="images/role/shime25.png" 编号="1"/>
+		    <贴图 路径="images/role/shime25.png" 编号="2"/>
+		    <贴图 路径="images/role/shime23.png" 编号="3"/>
+		    <贴图 路径="images/role/shime24.png" 编号="4"/>
+		    <贴图 路径="images/role/shime24.png" 编号="5"/>
+		    <贴图 路径="images/role/shime24.png" 编号="6"/>
+		    <贴图 路径="images/role/shime23.png" 编号="7"/>
+		    <贴图 路径="images/role/shime25.png" 编号="8"/>
+		</动作>
+		
+		<动作 名字="跑步" 类型="运动" 编号="6" 间隔="200">
+		    <贴图 路径="images/role/shime14.png" 编号="1"/>
+		    <贴图 路径="images/role/shime14.png" 编号="2"/>
+		    <贴图 路径="images/role/shime12.png" 编号="3"/>
+		    <贴图 路径="images/role/shime13.png" 编号="4"/>
+		    <贴图 路径="images/role/shime13.png" 编号="5"/>
+		    <贴图 路径="images/role/shime13.png" 编号="6"/>
+		    <贴图 路径="images/role/shime12.png" 编号="7"/>
+		    <贴图 路径="images/role/shime14.png" 编号="8"/>
+		</动作>
+		
+		<动作 名字="跑步" 类型="运动" 编号="7" 间隔="200">
+		    <贴图 路径="images/role/shime34.png" 编号="1"/>
+		    <贴图 路径="images/role/shime35.png" 编号="2"/>
+		    <贴图 路径="images/role/shime34.png" 编号="3"/>
+		    <贴图 路径="images/role/shime36.png" 编号="4"/>
+		</动作>
+		
+		<动作 名字="跑步" 类型="运动" 编号="8" 间隔="200">
+		    <贴图 路径="images/role/shime18.png" 编号="1"/>
+		    <贴图 路径="images/role/shime19.png" 编号="2"/>
+		</动作>
+		
+		<动作 名字="跑步" 类型="运动" 编号="9" 间隔="200">
+		    <贴图 路径="images/role/shime19.png" 编号="1"/>
+		    <贴图 路径="images/role/shime18.png" 编号="2"/>
+		    <贴图 路径="images/role/shime20.png" 编号="3"/>
+		    <贴图 路径="images/role/shime20.png" 编号="4"/>
+		    <贴图 路径="images/role/shime19.png" 编号="5"/>
+		</动作>
+		
+		<动作 名字="跑步" 类型="运动" 编号="10" 间隔="200">
+		    <贴图 路径="images/role/shime9.png" 编号="1"/>
+		    <贴图 路径="images/role/shime7.png" 编号="2"/>
+		    <贴图 路径="images/role/shime1.png" 编号="3"/>
+		    <贴图 路径="images/role/shime8.png" 编号="4"/>
+		    <贴图 路径="images/role/shime10.png" 编号="5"/>
+		</动作>
+		<动作 名字="跑步" 类型="运动" 编号="11" 间隔="200">
+		    <贴图 路径="images/role/shime5.png" 编号="1"/>
+		    <贴图 路径="images/role/shime6.png" 编号="2"/>
+		    <贴图 路径="images/role/shime5.png" 编号="3"/>
+		    <贴图 路径="images/role/shime6.png" 编号="4"/>
+		    <贴图 路径="images/role/shime1.png" 编号="5"/>
+		    <贴图 路径="images/role/shime5.png" 编号="6"/>
+		    <贴图 路径="images/role/shime6.png" 编号="7"/>
+		    <贴图 路径="images/role/shime5.png" 编号="8"/>
+		    <贴图 路径="images/role/shime6.png" 编号="9"/>
+		    <贴图 路径="images/role/shime5.png" 编号="10"/>
+		    <贴图 路径="images/role/shime6.png" 编号="11"/>
+		    <贴图 路径="images/role/shime5.png" 编号="12"/>
+		    <贴图 路径="images/role/shime6.png" 编号="13"/>
+		    <贴图 路径="images/role/shime1.png" 编号="14"/>
+		    <贴图 路径="images/role/shime5.png" 编号="15"/>
+		    <贴图 路径="images/role/shime6.png" 编号="16"/>
+		    <贴图 路径="images/role/shime5.png" 编号="17"/>
+		    <贴图 路径="images/role/shime6.png" 编号="18"/>
+		    <贴图 路径="images/role/shime5.png" 编号="19"/>
+		    <贴图 路径="images/role/shime6.png" 编号="20"/>
+		    <贴图 路径="images/role/shime5.png" 编号="21"/>
+		    <贴图 路径="images/role/shime6.png" 编号="22"/>
+		    <贴图 路径="images/role/shime5.png" 编号="23"/>
+		    <贴图 路径="images/role/shime6.png" 编号="24"/>
+		    <贴图 路径="images/role/shime5.png" 编号="25"/>
+		    <贴图 路径="images/role/shime6.png" 编号="26"/>
+		</动作>
+	</动作合集>
+
+</Root>
